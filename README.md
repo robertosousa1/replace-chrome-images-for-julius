@@ -3,6 +3,10 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/robertosousa1/replace-chrome-images-for-julius/master/imgs/04.png" alt="Julius-Rock" />
+  
+  <br />
+
+> Note.: Extension not yet published in the Chrome Web Store  
 </p>
 
 ## [](#license):memo: License
