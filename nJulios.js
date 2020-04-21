@@ -6,18 +6,18 @@
   $.extend(self, {
 
       nJuliusBackgrounds: [
-          'https://github.com/robertosousa1/imgs/04.png'
+          'https://raw.githubusercontent.com/robertosousa1/replace-chrome-images-for-julius/master/imgs/04.png'
       ],
 
       nJuliusImgs: [
-          'https://github.com/robertosousa1/imgs/01.jpg',
-          'https://github.com/robertosousa1/imgs/02.jpeg',
-          'https://github.com/robertosousa1/imgs/03.jpeg',
-          'https://github.com/robertosousa1/imgs/04.png',
-          'https://github.com/robertosousa1/imgs/05.jpg',
-          'https://github.com/robertosousa1/imgs/06.jpg',
-          'https://github.com/robertosousa1/imgs/07.jpg',
-          'https://github.com/robertosousa1/imgs/08.jpg',
+          'https://raw.githubusercontent.com/robertosousa1/replace-chrome-images-for-julius/master/imgs/01.jpg',
+          'https://raw.githubusercontent.com/robertosousa1/replace-chrome-images-for-julius/master/imgs/02.jpeg',
+          'https://raw.githubusercontent.com/robertosousa1/replace-chrome-images-for-julius/master/imgs/03.jpeg',
+          'https://raw.githubusercontent.com/robertosousa1/replace-chrome-images-for-julius/master/imgs/04.png',
+          'https://raw.githubusercontent.com/robertosousa1/replace-chrome-images-for-julius/master/imgs/05.jpg',
+          'https://raw.githubusercontent.com/robertosousa1/replace-chrome-images-for-julius/master/imgs/06.jpg',
+          'https://raw.githubusercontent.com/robertosousa1/replace-chrome-images-for-julius/master/imgs/07.jpg',
+          'https://raw.githubusercontent.com/robertosousa1/replace-chrome-images-for-julius/master/imgs/08.jpg',
       ],
 
       handleImages: function (lstImgs, time) {
