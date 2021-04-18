@@ -6,7 +6,7 @@
   
   <br />
 
-> Note.: Extension not yet published in the Chrome Web Store  
+> Note.: Extension published in the Chrome Web Store  
 </p>
 
 ## [](#license):memo: License
