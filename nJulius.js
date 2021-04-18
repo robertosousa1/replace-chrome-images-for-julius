@@ -1,6 +1,6 @@
 (function ($) {
 
-    var self = $.nVampeta = new function () { };
+    var self = $.nJulius = new function () { };
 
     $.extend(self, {
 
